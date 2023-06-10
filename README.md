@@ -3,7 +3,7 @@ Now that GitHub CoPilot has a full chat interface in VSCode, just for fun I aske
 
 I found a couple sketchy extensions to restore this ancient browser behavior, but I'm extremely picky about what extensions I install nowadays given the countless security horror stories.
 
-So I gave it a go, not expecting much and it... did a wonderful job?! 
+So I gave it a go, not expecting much and it... did a decent job?! 
 
 Well, I mean, it needed about 5 minutes of tweaking and testing but it got about 75% of the work done.
 
