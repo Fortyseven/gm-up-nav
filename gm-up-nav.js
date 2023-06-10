@@ -16,10 +16,7 @@ document.addEventListener("keydown", function (event) {
       currentUrl += "/";
     }
 
-    let urlFrags = currentUrl.split("/");
-
-    urlFrags.pop();
-    urlFrags.pop();
+    let urlFrags = currentUrl.split("/").slice(0, -2);
 
     if (urlFrags.length >= 3) {
       let newUrl = urlFrags.join("/");
