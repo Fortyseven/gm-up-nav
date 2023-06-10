@@ -15,7 +15,11 @@ _This has only been tested with Firefox._
 # Usage
 Literally pressing ALT+UP on any page will navigate you up a level. 
 
-For example: `https://example.com/foo/bar/baz` -> `https://example.com/foo/bar` -> `https://example.com/foo` -> `https://example.com/`
+For example: 
+- `https://example.com/foo/bar/baz`
+- `https://example.com/foo/bar`
+- `https://example.com/foo`
+- `https://example.com`
 
 Worth noting that many pages will redirect you if you hit a URL they don't like, so it will look like the page is just refreshing. Not much I can do about that. (Though I have some ideas...)
 
