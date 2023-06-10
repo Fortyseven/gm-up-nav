@@ -8,7 +8,7 @@ So I gave it a go, not expecting much and it... did a decent job?!
 Well, I mean, it needed about 5 minutes of tweaking and testing but it got about 75% of the work done.
 
 # Installation
-Go find a GreaseMonkey extension (or any of the clones) for your browser, and off you go.
+Go find a GreaseMonkey extension (or any of the clones) for your browser, stick this in, and off you go.
 
 _This has only been tested with Firefox._
 
